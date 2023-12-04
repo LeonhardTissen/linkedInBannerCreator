@@ -124,6 +124,8 @@ section {
 
 footer {
 	padding: 8px;
+	position: fixed;
+	bottom: 0;
 	background-color: var(--main-dark);
 	color: var(--secondary);
 }
